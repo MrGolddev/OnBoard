@@ -2,7 +2,7 @@
 name: "Napat Mainual"
 slack_handle: "@mrgolddev"
 github_handle: "@Mrgolddev"
-tutorial: -
+tutorial:
 ---
 
 # Project Sentinel
